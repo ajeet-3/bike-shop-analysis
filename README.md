@@ -11,4 +11,7 @@ Power BI: For data visualization and reporting
 MySQL: For data storage and query execution
 
 
+**Conclusion **
 
+    25 % Price Increases as  compared to pervious year 
+    64 %  Increase in demand as compared to previous year 
